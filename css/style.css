@@ -50,6 +50,11 @@ section {
    font-size: 22px;
    text-transform: uppercase;
    color: #11245A !important;
+   background-color: deeppink;
+    border-radius: 28px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 }
 .navbar .nav-link {
    font-size: 12px;
